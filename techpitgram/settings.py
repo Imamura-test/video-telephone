@@ -25,7 +25,7 @@ SECRET_KEY = 'vjac%8=5^(v5puov8d0jk7qp6!y_*@41p!sd-b3qktq)yb7-de'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["e71b23323edc4bf8b1d52d24adfd4244.vfs.cloud9.us-east-2.amazonaws.com"]
+ALLOWED_HOSTS = ['e71b23323edc4bf8b1d52d24adfd4244.vfs.cloud9.us-east-2.amazonaws.com','hibarionline.pythonanywhere.com']
 
 
 # Application definition
